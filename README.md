@@ -43,6 +43,14 @@ SurreyCodeCamp is currently being hosted in "long term" by [Beta Collective](htt
 
 ##### Special Events (Hackathons):
 
-Once a Year, We will be hosting a Community Hackathon, which will be 
+Once a Year, We will be hosting a Community Hackathon, which will take place between Summer and Fall. for this special event we will have 3 type of sponsors:
+
+- Platinum
+
+- Silver
+
+- Bronze
+
+- Friendly sponsorship
 
 It is expected that all Sponsors of Surrey CodeCamp provide some sort of value (whether monetary or in a product way) for when there is a contest, hackathon or business pitch contest.
