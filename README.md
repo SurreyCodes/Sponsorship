@@ -6,6 +6,17 @@ SurreyCodeCamp Sponsors guide.
 
 **Thank you** for your interest on becoming a Sponsor for SurreyCodeCamp, with your support we can reach more and more people who wants to mentor or be mentored in tech within our Community.
 
+Here is a little numbers run to consider:
+
+- Registered Members on Meetup.com: 200 
+- Followers on Twitter: 45
+- Facebook groups members
+- - Freecodecamp Surrey: 103
+- - Freecodecamp Vancouver: 1,060
+- Active members on Slack: 65
+
+*Total Reach including meetup day, slack and social channels: 1,500 Members!*
+
 To guide better the relationship of the community with our Sponsors, we have gather together a guide on what you can expect, among other things:
 
 # Type of Sponsors:
