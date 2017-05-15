@@ -8,12 +8,12 @@ SurreyCodeCamp Sponsors guide.
 
 Here is a little numbers run to consider:
 
-- Registered Members on Meetup.com: 200 
-- Followers on Twitter: 45
+- Registered Members on Meetup.com: 206
+- Followers on Twitter: 51
 - Facebook groups members
 - - Freecodecamp Surrey: 103
 - - Freecodecamp Vancouver: 1,060
-- Active members on Slack: 65
+- Active members on Slack: 72
 
 *Total Reach including meetup day, slack and social channels: 1,500 Members!*
 
