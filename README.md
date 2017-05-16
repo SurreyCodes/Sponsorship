@@ -30,14 +30,15 @@ SurreyCodeCamp offers one benefits tier to any and all cash sponsors. Cash Spons
 - Logo on the meetup home page, sponsors page, and event pages at meetup.com.
 - Company write up in the event invitation (a bi-weekly email to programmers and tech enthusiasts).
 - Company marketing materials and swag distributed at each event. (Previously provided by Sponsor).
+- An Opportunity to "Show and tell" your software and services.
 - Personalized mention by our MC at each event and at our #virtualmeetups thru the Slack community.
 - Logo on the SurreyCodeCamp website (Coming Soon).
 
 ##### Sponsorship rates are (we run 24 secured events per year + Social Events):
-- Month to Month $200</br>
-- 6 Months $1000</br>
-- 12 Months $1900</br>
-- 12 Month Exclusive Sponsor $2800.
+- Month to Month $180</br>
+- 6 Months $900</br>
+- 12 Months $1700</br>
+- 12 Month Exclusive Sponsor $2200.
 
 ## Venue Sponsor
 SurreyCodeCamp is currently being hosted in "long term" by [Beta Collective](http://www.betacollective.ca/) since the beginning, however company priorities and sometimes (in this case) locations occasionally change.  We are always open to consider new Venue Sponsors and will openly communicate any existing agreements that we may have with our current location.</br>
