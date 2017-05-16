@@ -46,10 +46,16 @@ SurreyCodeCamp is currently being hosted in "long term" by [Beta Collective](htt
 
 ##### The Venue Sponsor is provided with all benefits of Cash Sponsors including the following:
 - Can say a few words at each meetup.
-</br>
-</br>
+
+#### Adding Extra Perks to your Sponsor Package
+
+If you are aleady a Month-to-Month Sponsor, you can also add these features to your Sponsorship package when invited to:
+- Printed Banner displayed at all meetups $20.00 (Banner has to be provided by sponsor)</br>
+- Demo and How-To Private Event to focus the meetup toward your product $50.00 per event</br>
 
 ###### *All cash sponsorships are represented in Canadian Dollars*</br>*For more information contact Luis Espinal 604.500.4222*
+</br>
+</br>
 
 # Sponsor Considerations:
 
