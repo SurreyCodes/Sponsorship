@@ -8,14 +8,15 @@ SurreyCodeCamp Sponsors guide.
 
 Here is a little numbers run to consider:
 
-- Registered Members on Meetup.com: 366
-- Followers on Twitter: 82
+- Registered Members on Meetup.com: 412
+- Followers on Twitter: 87
+- Followers on Instagram: 75
 - Facebook groups members
-- - Freecodecamp Surrey: 153
-- - Freecodecamp Vancouver: 1,311
-- Active members on Slack: 117
+- - Freecodecamp Surrey: 182
+- - Freecodecamp Vancouver: 1,380
+- Active members on Slack: 125
 
-*Total Reach including meetup day, slack and social channels: 2,000 Members!*
+*Total Reach including meetup day, slack and social channels: 2,200+ Members!*
 
 To guide better the relationship of the community with our Sponsors, we have gather together a guide on what you can expect, among other things:
 
@@ -35,10 +36,10 @@ SurreyCodeCamp offers one benefits tier to any and all cash sponsors. Cash Spons
 - Logo on the SurreyCodeCamp website (Coming Soon).
 
 ##### Sponsorship rates are (we run 24 secured events per year + Social Events):
-- Month to Month $200</br>
-- 6 Months $1100</br>
-- 12 Months $2000</br>
-- 12 Month Exclusive Sponsor $2500.
+- Month to Month $250</br>
+- 6 Months $1200</br>
+- 12 Months $2100</br>
+- 12 Month Exclusive Sponsor $2600.
 
 ## Venue Sponsor
 SurreyCodeCamp is currently being hosted in "long term" by [Beta Collective](http://www.betacollective.ca/) since the beginning, however company priorities and sometimes (in this case) locations occasionally change.  We are always open to consider new Venue Sponsors and will openly communicate any existing agreements that we may have with our current location.</br>
